@@ -1,5 +1,5 @@
-name 'chef-rails-application'
+name 'chef-application'
 
-depends 'ssh'
+depends 'chef-ssh'
 depends 'sudo'
 depends 'chef-solo-search'
